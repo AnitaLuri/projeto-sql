@@ -7,12 +7,15 @@ O projeto visa construir um banco de dados para uma empresa de locação
 de veículos.
 
 <h3>Tebelas criadas</h3>
-1. CUSTOMERS;
-2. CAR_MODELS;
-3. CAR_BRANDS;
-4. CARS;
-5. POSITIONS;
-6. EMPLOYEES;
-7. LOCATIONS.
+<ol>
+  <li>CUSTOMERS</li>
+  <li>CAR_MODELS</li>
+  <li>CAR_BRANDS</li>
+  <li>CARS</li>
+  <li>POSITIONS</li>
+  <li>EMPLOYEES</li>
+  <li>LOCATIONS</li>
+</ol>
 
-<img src=”projetosql.png”>
+<br/>
+<img src="https://github.com/AnitaLuri/projeto-sql/blob/main/projetosql.png”>
